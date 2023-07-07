@@ -99,7 +99,7 @@ For this case, we will be using Niagahoster.
 - On the sidepanel, Go to the **DNS > Records** page and click **Add record**.
 - Add the CNAME with your Netlify link as shown below, then click **Save**.
 
-![ss129](/img2/Screenshot%20(129).png)
+![ss140](/img2/Screenshot%20(140).png)
 
 - Go to your Netlify project page and click **Set up a custom domain**.
 
@@ -111,4 +111,4 @@ For this case, we will be using Niagahoster.
 
 - It will take a while before you can access the site. Refresh the page to check if the site is active as shown below. Congrats! You have finished setting up your custom domain!
 
-![ss135](/img2/Screenshot%20(135).png)
+![ss141](/img2/Screenshot%20(141).png)
